@@ -1,6 +1,17 @@
 # jubilant-invention-cars-prices
 # **Used Car Price Prediction Project**
 
+## Dataset
+The dataset used in this project is hosted on Google Drive. You can download it using the link below:
+
+[Download Dataset](https://drive.google.com/drive/folders/1eVR-lSKQyORTf4swDLHTGFek8EHMd97s)
+
+### Instructions
+1. Click the link above to open the Google Drive folder.
+2. Download the dataset file(s) to your local machine.
+3. Place the downloaded file(s) in the `data/` directory before running the notebooks or scripts.
+
+
 ## **Project Overview**
 This project applies the CRISP-DM framework to analyze factors influencing used car prices. By leveraging machine learning models and detailed feature engineering, the analysis identifies key drivers of car prices and provides actionable recommendations for a used car dealership to optimize inventory and pricing strategies.
 
