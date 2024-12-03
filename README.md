@@ -126,3 +126,19 @@ This project applies the CRISP-DM framework to analyze factors influencing used 
 
 ## **Repository Structure**
 ├── data/ # Raw and cleaned datasets ├── notebooks/ # Jupyter notebooks with data exploration, modeling, and evaluation ├── scripts/ # Python scripts for preprocessing and modeling ├── outputs/ # Generated reports, plots, and model results ├── Deliverables.docx # Final report with findings and recommendations └── README.md # Project documentation (this file)
+
+# **Jubilant Invention - Used Car Price Prediction**
+
+## **Usage Instructions**
+To use this repository, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/nc007-cloud/jubilant-invention-cars-prices.git
+   cd jubilant-invention-cars-prices
+## Install dependencies:
+
+pip install -r requirements.txt
+Prepare the dataset: Place the dataset in your data/ directory.
+Ensure the dataset matches the structure expected in the notebooks/EDA_and_Modeling.ipynb notebook.
+
